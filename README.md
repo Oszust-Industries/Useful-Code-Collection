@@ -1,4 +1,4 @@
-# Useful Code
+# Useful Code Collection
 
 A collection of small but handy code snippets for various programming tasks. Feel free to explore, use, and modify these code snippets. Contributions and suggestions are welcome!
 
