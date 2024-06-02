@@ -1,6 +1,7 @@
 function clickButtonWhenAvailable() {
-    var buttonName = 'button.tut-slides-next'
-    var button = document.querySelector(buttonName);
+    var buttonSelector = 'button.tut-slides-next'; //Put your CSS selector for the button here
+    var button = document.querySelector(buttonSelector);
+    
     if (button) {
         console.log("Button found, clicking...");
         button.click();
@@ -12,5 +13,7 @@ function clickButtonWhenAvailable() {
     }
 }
 
-// Start the process
-clickButtonWhenAvailable();
+// Ensure the script runs only after the DOM is fully loaded
+document.addEventListener('DOMContentLoaded', function() {
+    clickButtonWhenAvailable();
+});
