@@ -8,7 +8,7 @@ A collection of small but handy code snippets for various programming tasks. You
 [![Follow @OszustOS on Twitter](https://img.shields.io/twitter/url/https/twitter.com/bukotsunikki.svg?style=social&label=Follow%20%40OszustOS)](https://twitter.com/OszustOS)
 
 ## Projects
-- [Click Button on Website (JavaScript)](https://github.com/Oszust-Industries/School-Projects/blob/main/README.md#click-button-on-website-javascript)
+- [Click Button on Website (JavaScript)](https://github.com/Oszust-Industries/Useful-Code-Collection/blob/main/README.md#click-button-on-website-javascript)
 
 ## Project List
 
