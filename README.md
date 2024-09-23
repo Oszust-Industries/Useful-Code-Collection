@@ -22,5 +22,8 @@ A script that clicks a button on a website if it's clickable waits one second be
 3. Paste the code from `Click button on website.js` into the console and press Enter:
 4. Replace `buttonSelector` with the appropriate CSS selector for the button you want to click.
 <br />
-<br />
+
+### Folder Tunnel (JavaScript)
+
+Run this in CMD to create a folder tunnel allowing applications to still location folders moved to different drives.
 <br />
